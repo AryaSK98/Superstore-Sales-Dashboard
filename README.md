@@ -28,3 +28,7 @@ Dashboard created using Excel in order to identify the weak areas in terms of pr
 *	State with most profit is California while state with most loss is Texas.
 *	States with loss have average disocunt around 40-50% for those sales which resulted in loss.
 *	Copiers have made the most profit while tables have made the most loss.
+### Recommendations
+*	Discounts can be reduced in states with loss.
+* Further analysis can be done to check for seasonal trends in both profit.
+* We can also check for particular seasons or months in which more discounts are offered.
