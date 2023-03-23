@@ -12,7 +12,7 @@ Dashboard created using Excel in order to identify the weak areas in terms of pr
 * Added a new column called ‘Profit/Loss’ which tells whether the sales made a profit or loss or neither profit nor loss.
 * Added another column called ‘City and State’ with name of the city followed by a ‘-’ and the first 3 letters of the corresponding state to distinguish cities with same name.
 ### EDA
-*	Descriptive statistical measures such as mean, median, 1st and 3rd quartiles etc... are calulated for the numerical columns.
+*	Descriptive statistical measures such as mean, median, 1st and 3rd quartiles etc... were calulated for the numerical columns.
 *	Histograms and box plots were created to understand the distribution of values in columns with numerical values.
 *	Correlation between numerical columns were calculated to identify relations between the variables.
 *	Scatterplots were plotted in order to clearly understand these relations, especially between profit and other variables.
