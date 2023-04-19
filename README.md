@@ -30,5 +30,5 @@ Dashboard created using Excel in order to identify the weak areas in terms of pr
 *	Copiers have made the most profit while tables have made the most loss.
 ### Recommendations
 *	Discounts can be reduced in states with loss.
-* Further analysis can be done to check for seasonal trends in both profit.
+* Further analysis can be done to check for seasonal trends in profit.
 * We can also check for particular seasons or months in which more discounts are offered.
